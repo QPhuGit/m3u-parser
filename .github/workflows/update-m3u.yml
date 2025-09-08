@@ -37,7 +37,7 @@ jobs:
         import os
         
         # Use input URL if provided, otherwise use default
-        m3u_url = '${{ github.event.inputs.m3u_url }}' or 'https://xem.hoiquan.click'
+        m3u_url = '${{ github.event.inputs.m3u_url }}' or 'https://raw.githubusercontent.com/ngvhiem/IPTV/refs/heads/main/IPTV.m3u'
         print(f'Processing M3U from: {m3u_url}')
         
         try:

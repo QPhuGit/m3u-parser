@@ -55,4 +55,5 @@ def parse_m3u_and_split_by_group_title(input_path, output_prefix="xem"):
 
 if __name__ == "__main__":
     # Default execution when run directly
-    parse_m3u_and_split_by_group_title('https://xem.hoiquan.click')
+    # parse_m3u_and_split_by_group_title('https://xem.hoiquan.click')
+    parse_m3u_and_split_by_group_title('https://raw.githubusercontent.com/ngvhiem/IPTV/refs/heads/main/IPTV.m3u')
