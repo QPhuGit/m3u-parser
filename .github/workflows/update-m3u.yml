@@ -1,0 +1,71 @@
+name: Update M3U Content
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+    inputs:
+      m3u_url:
+        description: 'M3U URL to process (optional, uses default if empty)'
+        required: false
+        type: string
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Process M3U file
+      run: |
+        python -c "
+        from m3uparse import parse_m3u_and_split_by_group_title
+        import os
+        
+        # Use input URL if provided, otherwise use default
+        m3u_url = '${{ github.event.inputs.m3u_url }}' or 'https://xem.hoiquan.click'
+        print(f'Processing M3U from: {m3u_url}')
+        
+        try:
+            parse_m3u_and_split_by_group_title(m3u_url)
+            print('M3U processing completed successfully')
+        except Exception as e:
+            print(f'Error processing M3U: {e}')
+            exit(1)
+        "
+        
+    - name: Check for changes
+      id: changes
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "changes=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add *.m3u
+        git commit -m "Auto-update M3U files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        git push
+        
+    - name: No changes detected
+      if: steps.changes.outputs.changes == 'false'
+      run: echo "No changes detected in M3U content"
