@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBSASIA" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBSASIA/DoiTac-HieuHa",TVBS Asia
+https://xem.hoiquan.Click/HieuHa/TVBSASIA/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBS/DoiTac-HieuHa",TVBS HD
+https://xem.hoiquan.Click/HieuHa/TVBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBS ENT" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBS ENT/DoiTac-HieuHa",TVBS ENTERTAINMENT
+https://xem.hoiquan.Click/HieuHa/TVBS ENT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBSNEWS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBSNEWS/DoiTac-HieuHa",TVBS NEWS
+https://xem.hoiquan.Click/HieuHa/TVBSNEWS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FORMOSA" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/FORMOSA/DoiTac-HieuHa",FORMOSA TV
+https://xem.hoiquan.Click/HieuHa/FORMOSA/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TTV" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TTV/DoiTac-HieuHa",TTV
+https://xem.hoiquan.Click/HieuHa/TTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTV" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTV/DoiTac-HieuHa",CTV
+https://xem.hoiquan.Click/HieuHa/CTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTS/DoiTac-HieuHa",CTS
+https://xem.hoiquan.Click/HieuHa/CTS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PTS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/PTS/DoiTac-HieuHa",PTS
+https://xem.hoiquan.Click/HieuHa/PTS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTIMETRO" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTIMETRO/DoiTac-HieuHa",CTI Metro
+https://xem.hoiquan.Click/HieuHa/CTIMETRO/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTIENT" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTIENT/DoiTac-HieuHa",CTI Entertainment
+https://xem.hoiquan.Click/HieuHa/CTIENT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTIXINWEN" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTIXINWEN/DoiTac-HieuHa",CTI News
+https://xem.hoiquan.Click/HieuHa/CTIXINWEN/DoiTacDongGop.m3u8

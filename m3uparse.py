@@ -3,6 +3,7 @@ from collections import defaultdict
 import urllib.request
 from urllib.parse import urlparse
 from unidecode import unidecode
+import os
 
 def parse_m3u_and_split_by_group_title(input_path, output_prefix="xem"):
     group_pattern = re.compile(r'group-title="([^"]+)"')
@@ -33,11 +34,15 @@ def parse_m3u_and_split_by_group_title(input_path, output_prefix="xem"):
             group_dict[group].append("".join(current_entry))
             current_entry = []
 
+    # Create IPTV directory if it doesn't exist
+    iptv_dir = "IPTV"
+    os.makedirs(iptv_dir, exist_ok=True)
+
     for group, entries in group_dict.items():
         # Convert non-ASCII characters to ASCII equivalents using unidecode, then sanitize for filename
         safe_group = unidecode(group)
         safe_group = re.sub(r'[^\w\-_\. ]', '_', safe_group)
-        out_file = f"{output_prefix}_{safe_group}.m3u"
+        out_file = os.path.join(iptv_dir, f"{output_prefix}_{safe_group}.m3u")
         with open(out_file, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for entry in entries:

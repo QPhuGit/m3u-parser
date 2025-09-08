@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JAKTV" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/JAKTV/DoiTac-HuuVinh",CJB SBS
+https://xem.hoiquan.Click/HuuVinh/JAKTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TJBSBS" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/TJBSBS/DoiTac-HuuVinh",TJB SBS
+https://xem.hoiquan.Click/HuuVinh/TJBSBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="KBCSBS" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/KBCSBS/DoiTac-HuuVinh",KBC SBS
+https://xem.hoiquan.Click/HuuVinh/KBCSBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="UBCSBS" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/UBCSBS/DoiTac-HuuVinh",UBC SBS
+https://xem.hoiquan.Click/HuuVinh/UBCSBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="KNNSBS" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/KNNSBS/DoiTac-HuuVinh",KNN SBS
+https://xem.hoiquan.Click/HuuVinh/KNNSBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="JTVSBS" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/JTVSBS/DoiTac-HuuVinh",JTV SBS
+https://xem.hoiquan.Click/HuuVinh/JTVSBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="G1SBS" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/G1SBS/DoiTac-HuuVinh",G1 SBS
+https://xem.hoiquan.Click/HuuVinh/G1SBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBC" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBC/DoiTac-HuuVinh",MBC
+https://xem.hoiquan.Click/HuuVinh/MBC/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCAndong" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCAndong/DoiTac-HuuVinh",MBC Andong
+https://xem.hoiquan.Click/HuuVinh/MBCAndong/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCBusan" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCBusan/DoiTac-HuuVinh",MBC Busan
+https://xem.hoiquan.Click/HuuVinh/MBCBusan/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCChuncheon" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCChuncheon/DoiTac-HuuVinh",MBC Chuncheon
+https://xem.hoiquan.Click/HuuVinh/MBCChuncheon/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCChungbuk" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCChungbuk/DoiTac-HuuVinh",MBC Chungbuk
+https://xem.hoiquan.Click/HuuVinh/MBCChungbuk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCDaegu" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCDaegu/DoiTac-HuuVinh",MBC Daegu
+https://xem.hoiquan.Click/HuuVinh/MBCDaegu/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCJeju" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCJeju/DoiTac-HuuVinh",MBC Jeju
+https://xem.hoiquan.Click/HuuVinh/MBCJeju/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCMokpo" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCMokpo/DoiTac-HuuVinh",MBC Mokpo
+https://xem.hoiquan.Click/HuuVinh/MBCMokpo/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCUlsan" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCUlsan/DoiTac-HuuVinh",MBC Ulsan
+https://xem.hoiquan.Click/HuuVinh/MBCUlsan/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MBCYeosu" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/MBCYeosu/DoiTac-HuuVinh",MBC Yeosu
+https://xem.hoiquan.Click/HuuVinh/MBCYeosu/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="EBSE" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/EBSE/DoiTac-HuuVinh",EBS E
+https://xem.hoiquan.Click/HuuVinh/EBSE/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="EBSKids" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/EBSKids/DoiTac-HuuVinh",EBS Kids
+https://xem.hoiquan.Click/HuuVinh/EBSKids/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="EBS1" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/EBS1/DoiTac-HuuVinh",EBS+1
+https://xem.hoiquan.Click/HuuVinh/EBS1/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="EBS2" group-title="🔁 HuuVinh.Hàn Quốc" tvg-logo="https://xem.hoiquan.click/Logo/EBS2/DoiTac-HuuVinh",EBS+2
+https://xem.hoiquan.Click/HuuVinh/EBS2/DoiTacDongGop.m3u8

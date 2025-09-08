@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="axnhd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/axnhd/DoiTac-CuongHeHe",AXN
+https://xem.hoiquan.Click/CuongHeHe/axnhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hbohd/DoiTac-CuongHeHe",HBO
+https://xem.hoiquan.Click/CuongHeHe/hbohd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/warnertvhd/DoiTac-CuongHeHe",Warner TV
+https://xem.hoiquan.Click/CuongHeHe/warnertvhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/discoveryhd/DoiTac-CuongHeHe",Discovery Channel
+https://xem.hoiquan.Click/CuongHeHe/discoveryhd/DoiTacDongGop.m3u8

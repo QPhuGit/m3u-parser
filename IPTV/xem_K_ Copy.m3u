@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="thoitiet" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/thoitiet/KenhBoSung",K+ Thời Tiết
+https://xem.hoiquan.Click/NguonOnliveTV/thoitiet/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kcinehd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/kcinehd/KenhBoSung",K+ Cine
+https://xem.hoiquan.Click/NguonOnliveTV/kcinehd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kaction" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/kaction/KenhBoSung",K+ Action
+https://xem.hoiquan.Click/NguonOnliveTV/kaction/ToChaThangVThanh
+#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/ksport1hd/KenhBoSung",K+ Sport 1
+https://xem.hoiquan.Click/NguonOnliveTV/ksport1hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="ksport2hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/ksport2hd/KenhBoSung",K+ Sport 2
+https://xem.hoiquan.Click/NguonOnliveTV/ksport2hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kkidshd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/kkidshd/KenhBoSung",K+ Kids
+https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
