@@ -219,8 +219,23 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 https://hls.mskycdn.online/tv/axnhd/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-https://hls.mskycdn.online/tv/hbohd/index.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/159/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/160/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Truyền Hình" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg", HBO Hits
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=liPMjLtNEA
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&extension=ts&play_token=Y69qN5p7zN
+#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Truyền Hình" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png", HBO Signature HD
+http://filex.tv:8080//live/drzain/002808/302251.ts
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png",Cinemax
 https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://hls.mskycdn.online/logo/cinemaworldhd.png",Cinema World
