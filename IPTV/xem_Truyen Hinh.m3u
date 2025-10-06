@@ -142,11 +142,13 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 2
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/45/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png",Lâm Đồng 3
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/8rGiYuk.png",Tây Ninh
 http://118.69.83.22:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/WEMfHas.png",Vũng Tàu
@@ -226,12 +228,6 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
-#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png" group-title="Truyền Hình",Cartoon Network
-https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="Truyền Hình" tvg-logo="https://hls.mskycdn.online/logo/cartoonito.png" http-user-agent="com.msky.mskyandroidtvott",Cartoonito
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=EmvO2AH4kY
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://hls.mskycdn.online/logo/discoveryasiahd.png",Discovery Asia
-https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
