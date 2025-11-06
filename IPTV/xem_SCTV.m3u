@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Truyền Hình" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16 HD
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
